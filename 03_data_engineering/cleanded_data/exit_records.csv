@@ -1,0 +1,751 @@
+exit_id,employee_id,exit_date,exit_type,exit_reason,notice_period_days,eligible_for_rehire
+1,103,2025-02-03,Resignation,Performance Issues,15,Yes
+2,2772,2025-11-18,Termination,End of Contract,0,Yes
+3,384,2025-12-21,Resignation,Retirement,15,Yes
+4,815,2024-06-17,Resignation,End of Contract,60,Yes
+5,27,2025-05-20,Resignation,Relocation,60,Yes
+6,1379,2025-05-14,Resignation,Higher Education,0,Yes
+7,1409,2025-10-14,Resignation,Performance Issues,0,Yes
+8,1551,2024-01-21,Resignation,Higher Education,90,Yes
+9,1482,2024-06-08,Resignation,Retirement,0,Yes
+10,1186,2024-10-12,Resignation,Higher Education,15,No
+11,1858,2024-08-15,Resignation,Personal Reasons,15,Yes
+12,1094,2025-03-02,Resignation,Higher Education,90,Yes
+13,1003,2025-02-14,Resignation,Relocation,60,Yes
+14,2622,2024-09-10,Contract End,End of Contract,15,Yes
+15,230,2025-07-17,Termination,Retirement,0,No
+16,272,2025-12-06,Resignation,Retirement,90,No
+17,2685,2025-09-17,Resignation,Company Restructuring,60,No
+18,586,2024-04-19,Resignation,Performance Issues,15,Yes
+19,1077,2025-01-31,Resignation,Health Issues,90,Yes
+20,567,2025-10-17,Resignation,End of Contract,60,Yes
+21,450,2024-09-22,Resignation,Relocation,15,Yes
+22,261,2025-09-23,Resignation,Health Issues,60,Yes
+23,1030,2025-03-10,Resignation,End of Contract,0,Yes
+24,2200,2024-04-27,Resignation,Performance Issues,30,Yes
+25,1859,2024-06-11,Resignation,Better Career Opportunity,30,No
+26,2080,2024-02-04,Termination,Higher Education,30,No
+27,815,2024-06-16,Resignation,Relocation,30,Yes
+28,2173,2024-07-07,Resignation,Better Career Opportunity,90,Yes
+29,1487,2025-11-15,Resignation,Performance Issues,15,Yes
+30,323,2024-09-25,Retirement,Higher Education,60,No
+31,2182,2025-02-24,Contract End,Relocation,15,Yes
+32,677,2025-09-28,Retirement,Performance Issues,90,No
+33,868,2024-02-20,Resignation,End of Contract,15,Yes
+34,2752,2024-04-30,Resignation,Personal Reasons,60,No
+35,1016,2025-07-24,Resignation,Retirement,0,Yes
+36,943,2024-01-03,Resignation,Retirement,0,Yes
+37,938,2024-07-14,Resignation,Higher Education,0,No
+38,975,2024-03-17,Resignation,Performance Issues,60,Yes
+39,2339,2025-07-05,Resignation,Company Restructuring,15,Yes
+40,780,2024-10-20,Termination,Higher Education,0,Yes
+41,1684,2025-08-16,Resignation,Company Restructuring,0,Yes
+42,404,2024-11-04,Contract End,Better Career Opportunity,60,Yes
+43,448,2024-05-23,Termination,Retirement,15,Yes
+44,1729,2024-01-23,Resignation,Relocation,30,Yes
+45,309,2024-08-31,Retirement,Company Restructuring,90,Yes
+46,2215,2025-05-31,Resignation,Better Career Opportunity,0,No
+47,682,2024-05-25,Termination,Health Issues,60,Yes
+48,241,2024-10-04,Retirement,Relocation,60,Yes
+49,1864,2024-03-28,Resignation,Performance Issues,60,Yes
+50,2277,2025-11-01,Termination,Company Restructuring,15,Yes
+51,240,2024-04-05,Resignation,End of Contract,0,Yes
+52,2393,2025-02-17,Resignation,Company Restructuring,90,No
+53,233,2024-01-29,Resignation,End of Contract,0,No
+54,279,2024-08-12,Resignation,Retirement,60,Yes
+55,1009,2024-12-09,Retirement,Better Career Opportunity,90,Yes
+56,2316,2024-09-15,Resignation,End of Contract,30,No
+57,2934,2025-02-05,Resignation,Personal Reasons,15,Yes
+58,2644,2024-06-26,Resignation,Performance Issues,60,Yes
+59,298,2025-02-23,Termination,Better Career Opportunity,60,Yes
+60,410,2025-06-03,Resignation,Higher Education,90,Yes
+61,1430,2024-05-07,Resignation,Higher Education,15,Yes
+62,2226,2024-11-21,Resignation,Performance Issues,90,No
+63,2167,2025-02-10,Termination,Better Career Opportunity,90,Yes
+64,551,2025-01-24,Resignation,Performance Issues,0,No
+65,637,2025-09-28,Termination,Performance Issues,30,Yes
+66,834,2024-01-29,Termination,Performance Issues,90,Yes
+67,209,2025-11-22,Retirement,Higher Education,60,No
+68,1367,2024-06-12,Resignation,Relocation,30,Yes
+69,2891,2024-04-09,Resignation,Health Issues,90,Yes
+70,2831,2024-12-10,Resignation,Relocation,90,Yes
+71,2264,2024-07-10,Resignation,Relocation,60,Yes
+72,164,2025-11-04,Resignation,Personal Reasons,15,Yes
+73,1449,2024-03-14,Resignation,End of Contract,60,No
+74,970,2024-10-25,Termination,Relocation,15,No
+75,1361,2024-07-17,Resignation,Health Issues,15,Yes
+76,443,2024-10-26,Termination,Health Issues,0,No
+77,1886,2025-03-31,Resignation,Personal Reasons,30,No
+78,914,2025-12-01,Retirement,Better Career Opportunity,15,Yes
+79,285,2024-07-28,Resignation,Performance Issues,30,Yes
+80,2197,2025-09-04,Resignation,Personal Reasons,0,Yes
+81,732,2024-09-09,Contract End,Performance Issues,0,Yes
+82,2985,2025-06-17,Resignation,Personal Reasons,60,Yes
+83,1578,2024-04-12,Resignation,Retirement,30,Yes
+84,2130,2025-07-07,Resignation,End of Contract,15,Yes
+85,2721,2025-05-05,Resignation,Personal Reasons,90,Yes
+86,2949,2024-12-24,Termination,Performance Issues,90,Yes
+87,1649,2024-12-10,Resignation,Performance Issues,90,Yes
+88,1553,2025-03-06,Resignation,Relocation,90,Yes
+89,2,2024-07-27,Resignation,Performance Issues,30,Yes
+90,2485,2024-07-17,Termination,Personal Reasons,60,Yes
+91,2094,2025-04-15,Resignation,Company Restructuring,15,Yes
+92,2720,2025-05-16,Resignation,Personal Reasons,0,No
+93,2756,2025-12-17,Termination,Performance Issues,15,No
+94,190,2025-08-25,Resignation,Retirement,60,Yes
+95,1866,2024-07-14,Termination,Health Issues,90,Yes
+96,2025,2025-11-19,Resignation,Health Issues,15,Yes
+97,437,2025-10-02,Resignation,Health Issues,15,Yes
+98,2122,2025-01-06,Contract End,Company Restructuring,0,Yes
+99,498,2024-10-08,Retirement,Company Restructuring,15,No
+100,2290,2025-05-23,Resignation,Personal Reasons,60,Yes
+101,2068,2024-05-22,Termination,Health Issues,90,Yes
+102,1945,2024-12-09,Resignation,Company Restructuring,30,Yes
+103,1136,2025-03-06,Termination,End of Contract,60,Yes
+104,318,2024-12-25,Resignation,Performance Issues,15,Yes
+105,2213,2025-02-28,Resignation,Higher Education,15,Yes
+106,626,2025-07-27,Resignation,Retirement,0,Yes
+107,1909,2025-11-02,Resignation,Health Issues,0,Yes
+108,2393,2025-05-29,Resignation,Better Career Opportunity,90,Yes
+109,1441,2024-02-25,Resignation,Performance Issues,60,No
+110,1717,2025-05-30,Contract End,End of Contract,90,Yes
+111,2000,2025-09-24,Retirement,Retirement,30,Yes
+112,1377,2024-07-22,Resignation,Health Issues,15,No
+113,2549,2025-12-30,Retirement,End of Contract,0,No
+114,2716,2024-11-09,Resignation,Better Career Opportunity,0,Yes
+115,1892,2024-07-24,Resignation,Relocation,0,Yes
+116,1863,2025-05-10,Resignation,Personal Reasons,30,Yes
+117,1727,2025-09-26,Resignation,Performance Issues,0,Yes
+118,214,2025-11-24,Termination,Personal Reasons,15,Yes
+119,2670,2024-01-16,Termination,Better Career Opportunity,0,No
+120,84,2025-09-09,Resignation,Relocation,15,Yes
+121,2311,2024-03-21,Resignation,Retirement,60,Yes
+122,688,2024-09-28,Termination,Higher Education,15,No
+123,106,2024-10-04,Resignation,Performance Issues,90,Yes
+124,1625,2025-06-24,Contract End,Retirement,0,Yes
+125,995,2024-07-27,Termination,Higher Education,30,No
+126,496,2024-06-18,Resignation,Better Career Opportunity,30,Yes
+127,283,2024-03-16,Resignation,End of Contract,30,Yes
+128,2008,2025-03-19,Resignation,Higher Education,60,No
+129,1884,2025-02-05,Resignation,Relocation,60,Yes
+130,2665,2025-11-15,Resignation,Performance Issues,90,No
+131,1981,2025-11-23,Resignation,Company Restructuring,60,No
+132,1321,2025-08-16,Resignation,Retirement,0,Yes
+133,1904,2025-10-23,Resignation,Health Issues,30,Yes
+134,745,2024-06-30,Retirement,Company Restructuring,15,Yes
+135,1146,2024-06-30,Resignation,Performance Issues,90,Yes
+136,351,2025-06-13,Retirement,Retirement,60,Yes
+137,2829,2025-10-26,Termination,Company Restructuring,60,Yes
+138,1206,2024-03-06,Resignation,Retirement,60,Yes
+139,2383,2024-06-22,Resignation,Personal Reasons,60,Yes
+140,2255,2025-10-19,Resignation,Personal Reasons,30,Yes
+141,1030,2024-06-10,Resignation,Retirement,0,Yes
+142,2195,2024-06-20,Resignation,Relocation,15,Yes
+143,2968,2025-03-19,Resignation,End of Contract,90,Yes
+144,796,2024-06-25,Resignation,Performance Issues,15,Yes
+145,2901,2024-11-04,Resignation,End of Contract,15,Yes
+146,2267,2024-12-18,Contract End,Performance Issues,15,Yes
+147,421,2024-06-05,Termination,Better Career Opportunity,90,Yes
+148,1396,2024-10-07,Resignation,Relocation,0,Yes
+149,468,2025-09-10,Retirement,Higher Education,60,Yes
+150,2812,2024-05-09,Resignation,Better Career Opportunity,15,Yes
+151,1245,2024-02-07,Resignation,Higher Education,15,Yes
+152,2484,2025-08-17,Termination,Retirement,90,Yes
+153,1218,2025-01-20,Retirement,Health Issues,30,Yes
+154,407,2024-11-26,Resignation,Retirement,15,Yes
+155,983,2025-09-02,Resignation,Relocation,90,Yes
+156,1846,2025-07-31,Resignation,Company Restructuring,30,Yes
+157,1159,2024-06-17,Resignation,Company Restructuring,0,Yes
+158,2561,2024-04-24,Retirement,Retirement,60,Yes
+159,611,2025-09-21,Resignation,Performance Issues,15,Yes
+160,1260,2024-12-21,Resignation,Performance Issues,60,Yes
+161,2867,2025-11-26,Resignation,Health Issues,30,Yes
+162,330,2025-01-20,Resignation,Better Career Opportunity,60,Yes
+163,106,2025-10-21,Resignation,Higher Education,15,No
+164,2357,2025-11-29,Termination,Better Career Opportunity,30,Yes
+165,718,2025-03-27,Termination,Company Restructuring,90,Yes
+166,744,2024-11-19,Retirement,Health Issues,60,No
+167,1673,2025-11-27,Resignation,Personal Reasons,30,Yes
+168,1351,2025-07-26,Retirement,Health Issues,60,Yes
+169,2254,2025-01-17,Retirement,Better Career Opportunity,60,Yes
+170,475,2024-09-23,Resignation,Health Issues,90,No
+171,2223,2024-10-23,Resignation,Company Restructuring,60,Yes
+172,2551,2025-03-03,Resignation,Company Restructuring,60,Yes
+173,2250,2024-08-02,Resignation,Relocation,30,Yes
+174,498,2024-01-25,Resignation,Better Career Opportunity,90,Yes
+175,1273,2025-03-21,Termination,End of Contract,0,Yes
+176,465,2024-05-30,Resignation,Company Restructuring,0,Yes
+177,2936,2024-04-02,Resignation,Performance Issues,90,Yes
+178,1977,2025-10-25,Resignation,Company Restructuring,15,Yes
+179,781,2025-04-09,Resignation,End of Contract,15,No
+180,1700,2025-03-20,Resignation,Personal Reasons,90,Yes
+181,2974,2025-11-30,Resignation,Performance Issues,90,Yes
+182,609,2024-05-02,Resignation,Company Restructuring,90,Yes
+183,2226,2025-11-05,Resignation,Health Issues,60,No
+184,2857,2024-12-19,Retirement,Retirement,90,Yes
+185,1683,2025-11-24,Retirement,Better Career Opportunity,30,Yes
+186,1562,2024-10-02,Termination,Health Issues,15,Yes
+187,2058,2024-12-21,Resignation,Personal Reasons,0,No
+188,2155,2025-03-07,Resignation,Company Restructuring,0,Yes
+189,2682,2025-07-26,Resignation,Relocation,0,Yes
+190,1387,2025-11-18,Contract End,Health Issues,0,No
+191,2186,2025-06-10,Retirement,Health Issues,30,Yes
+192,1999,2025-11-04,Retirement,End of Contract,0,Yes
+193,2804,2025-10-16,Resignation,Performance Issues,15,Yes
+194,404,2025-06-01,Resignation,Higher Education,60,Yes
+195,119,2024-05-26,Resignation,Better Career Opportunity,30,Yes
+196,1536,2024-04-17,Resignation,Health Issues,15,Yes
+197,2793,2025-08-26,Resignation,Relocation,15,Yes
+198,1567,2025-11-04,Resignation,Retirement,60,No
+199,1889,2024-07-21,Resignation,Performance Issues,60,Yes
+200,1906,2024-01-02,Resignation,Performance Issues,90,Yes
+201,1416,2025-05-31,Resignation,Performance Issues,60,Yes
+202,1238,2024-07-28,Resignation,Retirement,60,No
+203,1563,2024-06-26,Resignation,Personal Reasons,90,Yes
+204,90,2024-05-05,Resignation,Health Issues,30,Yes
+205,201,2025-02-18,Retirement,Company Restructuring,30,Yes
+206,1444,2025-11-24,Resignation,Retirement,15,Yes
+207,2953,2025-08-02,Resignation,Relocation,0,No
+208,1266,2024-06-01,Resignation,Company Restructuring,0,Yes
+209,370,2024-04-15,Termination,Performance Issues,30,Yes
+210,542,2024-05-19,Resignation,End of Contract,30,Yes
+211,674,2024-05-18,Retirement,Performance Issues,60,No
+212,1388,2024-03-13,Resignation,Higher Education,60,No
+213,925,2024-06-23,Resignation,Health Issues,90,Yes
+214,58,2024-10-11,Termination,Performance Issues,90,Yes
+215,2754,2024-01-30,Resignation,Performance Issues,90,Yes
+216,1522,2024-04-11,Resignation,Higher Education,15,Yes
+217,2300,2024-04-26,Resignation,Personal Reasons,90,Yes
+218,1902,2025-12-11,Resignation,Performance Issues,60,Yes
+219,153,2024-07-12,Resignation,Performance Issues,60,Yes
+220,2202,2025-03-08,Resignation,Relocation,60,Yes
+221,2853,2024-03-07,Resignation,End of Contract,60,Yes
+222,1700,2025-07-09,Termination,Higher Education,60,Yes
+223,1146,2024-03-28,Retirement,Better Career Opportunity,30,Yes
+224,968,2025-04-01,Resignation,Personal Reasons,0,No
+225,2642,2025-10-25,Resignation,Personal Reasons,0,Yes
+226,501,2025-02-12,Resignation,Company Restructuring,0,Yes
+227,2446,2024-06-26,Resignation,Better Career Opportunity,0,Yes
+228,516,2024-09-12,Resignation,Retirement,0,No
+229,2402,2024-04-07,Resignation,Retirement,15,Yes
+230,2442,2024-05-11,Resignation,Better Career Opportunity,30,No
+231,533,2024-10-01,Resignation,End of Contract,30,Yes
+232,106,2025-04-28,Resignation,Relocation,0,Yes
+233,2412,2025-10-18,Termination,Personal Reasons,0,Yes
+234,1725,2024-07-26,Resignation,End of Contract,0,Yes
+235,1483,2024-04-10,Resignation,End of Contract,90,Yes
+236,2520,2024-10-17,Resignation,Better Career Opportunity,90,Yes
+237,128,2024-01-03,Resignation,Better Career Opportunity,60,No
+238,443,2025-01-05,Resignation,Company Restructuring,60,Yes
+239,2492,2024-05-11,Resignation,Relocation,0,Yes
+240,2398,2024-10-04,Resignation,End of Contract,30,Yes
+241,1208,2024-01-04,Resignation,Company Restructuring,90,Yes
+242,2875,2025-03-08,Resignation,Higher Education,90,Yes
+243,1850,2024-11-21,Resignation,Retirement,60,Yes
+244,1704,2025-06-02,Resignation,Higher Education,30,Yes
+245,1534,2024-06-22,Resignation,Relocation,60,Yes
+246,382,2025-05-19,Termination,Health Issues,0,Yes
+247,533,2024-07-01,Resignation,End of Contract,0,Yes
+248,1351,2024-04-24,Resignation,Higher Education,60,Yes
+249,1733,2025-11-01,Resignation,Better Career Opportunity,30,Yes
+250,2368,2025-08-25,Resignation,End of Contract,15,Yes
+251,444,2024-10-17,Resignation,Personal Reasons,90,Yes
+252,2352,2024-11-05,Termination,Retirement,60,No
+253,2547,2024-04-16,Contract End,End of Contract,0,Yes
+254,2841,2025-11-01,Resignation,Performance Issues,0,Yes
+255,1266,2024-07-27,Termination,Personal Reasons,30,Yes
+256,2320,2024-12-16,Retirement,Health Issues,0,Yes
+257,126,2025-12-28,Resignation,Higher Education,90,Yes
+258,1397,2024-05-28,Resignation,Relocation,30,Yes
+259,2325,2024-07-30,Resignation,Higher Education,0,Yes
+260,204,2025-01-14,Termination,Higher Education,30,Yes
+261,2487,2024-05-29,Resignation,Company Restructuring,60,Yes
+262,467,2024-07-11,Termination,Personal Reasons,60,Yes
+263,2430,2025-10-13,Resignation,Company Restructuring,90,Yes
+264,1619,2024-10-09,Resignation,Better Career Opportunity,0,Yes
+265,563,2024-11-22,Retirement,Performance Issues,30,Yes
+266,1764,2025-07-01,Resignation,Relocation,15,Yes
+267,2050,2025-03-12,Termination,End of Contract,30,Yes
+268,174,2025-08-12,Retirement,Health Issues,0,Yes
+269,1283,2024-02-06,Resignation,Health Issues,90,Yes
+270,1186,2024-04-09,Resignation,Higher Education,60,Yes
+271,2532,2024-08-10,Resignation,Company Restructuring,30,Yes
+272,997,2024-04-22,Termination,Health Issues,90,Yes
+273,1271,2025-06-08,Resignation,Personal Reasons,15,Yes
+274,2091,2025-09-15,Resignation,Higher Education,90,Yes
+275,1432,2025-01-07,Retirement,Personal Reasons,15,Yes
+276,809,2025-05-10,Resignation,Relocation,90,Yes
+277,309,2024-10-27,Termination,Relocation,60,Yes
+278,2374,2025-08-01,Resignation,Company Restructuring,90,Yes
+279,1324,2025-04-24,Contract End,Personal Reasons,15,Yes
+280,2587,2025-09-22,Resignation,Performance Issues,30,Yes
+281,304,2024-09-08,Resignation,Performance Issues,60,Yes
+282,1176,2025-10-02,Resignation,Higher Education,0,Yes
+283,1896,2024-04-21,Resignation,End of Contract,0,Yes
+284,2670,2025-10-09,Termination,Retirement,30,Yes
+285,254,2025-09-12,Resignation,Company Restructuring,0,No
+286,2926,2025-01-03,Termination,Higher Education,90,Yes
+287,2899,2025-12-15,Resignation,Company Restructuring,60,Yes
+288,1491,2025-06-20,Resignation,Personal Reasons,30,Yes
+289,2781,2024-04-28,Termination,Better Career Opportunity,30,Yes
+290,2779,2024-06-06,Resignation,Health Issues,30,Yes
+291,2469,2024-03-30,Retirement,Relocation,30,Yes
+292,1433,2024-11-03,Resignation,Performance Issues,60,Yes
+293,348,2025-10-24,Termination,Performance Issues,90,Yes
+294,524,2024-06-04,Termination,End of Contract,0,Yes
+295,1483,2024-01-21,Resignation,Better Career Opportunity,30,Yes
+296,1400,2025-02-22,Contract End,Company Restructuring,15,Yes
+297,317,2024-04-27,Resignation,Performance Issues,0,Yes
+298,2157,2025-12-15,Resignation,Better Career Opportunity,30,No
+299,2447,2024-02-14,Resignation,Health Issues,15,Yes
+300,2559,2025-12-17,Termination,Relocation,60,Yes
+301,2948,2025-02-16,Resignation,Retirement,60,Yes
+302,1839,2024-07-22,Termination,Retirement,90,Yes
+303,1922,2024-08-07,Contract End,Retirement,30,Yes
+304,1805,2024-05-16,Resignation,Company Restructuring,30,Yes
+305,1715,2025-06-10,Resignation,Relocation,15,No
+306,1025,2024-02-06,Resignation,Better Career Opportunity,60,No
+307,421,2025-02-04,Resignation,End of Contract,0,Yes
+308,1118,2024-12-22,Termination,Company Restructuring,90,Yes
+309,910,2025-03-28,Resignation,Company Restructuring,30,No
+310,1624,2024-01-18,Resignation,End of Contract,30,Yes
+311,1536,2024-11-20,Contract End,Retirement,0,Yes
+312,2928,2024-10-11,Resignation,Personal Reasons,15,Yes
+313,1936,2024-03-10,Resignation,Relocation,60,Yes
+314,325,2024-01-30,Resignation,Better Career Opportunity,30,Yes
+315,2979,2024-10-07,Resignation,End of Contract,60,Yes
+316,1234,2025-03-06,Resignation,Higher Education,0,Yes
+317,2552,2025-05-17,Resignation,Company Restructuring,0,Yes
+318,2445,2025-01-29,Retirement,End of Contract,0,Yes
+319,2944,2025-07-25,Resignation,Relocation,30,Yes
+320,986,2024-11-15,Resignation,Health Issues,15,Yes
+321,1478,2024-07-07,Resignation,Higher Education,90,Yes
+322,2080,2024-04-30,Termination,End of Contract,0,Yes
+323,2604,2025-09-08,Resignation,Health Issues,30,Yes
+324,277,2024-09-23,Resignation,Personal Reasons,15,Yes
+325,2384,2024-11-14,Resignation,Personal Reasons,15,Yes
+326,2633,2025-10-15,Resignation,Relocation,60,No
+327,747,2025-05-15,Resignation,Relocation,0,Yes
+328,152,2024-03-15,Retirement,Performance Issues,15,Yes
+329,172,2025-08-26,Resignation,Personal Reasons,30,Yes
+330,2225,2025-05-30,Contract End,Company Restructuring,30,Yes
+331,1172,2024-12-22,Resignation,Personal Reasons,0,No
+332,510,2025-09-07,Resignation,Personal Reasons,60,No
+333,1584,2024-07-03,Termination,Personal Reasons,15,Yes
+334,2127,2025-09-06,Resignation,Performance Issues,0,Yes
+335,2468,2024-10-09,Resignation,Relocation,90,Yes
+336,1344,2025-01-31,Resignation,Performance Issues,30,Yes
+337,683,2025-01-29,Termination,Company Restructuring,30,Yes
+338,1445,2025-09-08,Termination,Health Issues,30,Yes
+339,235,2024-01-02,Termination,Higher Education,60,Yes
+340,2783,2024-02-24,Termination,Relocation,0,Yes
+341,1795,2025-06-30,Resignation,Better Career Opportunity,15,Yes
+342,1501,2024-10-08,Termination,Personal Reasons,60,No
+343,629,2025-09-28,Resignation,Company Restructuring,30,Yes
+344,2351,2025-12-21,Termination,Relocation,90,Yes
+345,1142,2024-10-20,Resignation,Retirement,0,Yes
+346,2121,2025-02-10,Resignation,Health Issues,90,Yes
+347,2884,2024-06-02,Termination,Company Restructuring,15,No
+348,2012,2024-06-19,Resignation,Retirement,0,Yes
+349,708,2024-10-13,Resignation,Company Restructuring,0,No
+350,1310,2025-05-23,Contract End,Personal Reasons,0,Yes
+351,1229,2025-08-18,Resignation,Relocation,15,Yes
+352,498,2025-02-16,Resignation,Retirement,15,Yes
+353,1479,2025-03-27,Resignation,End of Contract,90,Yes
+354,2260,2025-02-19,Termination,Relocation,90,No
+355,1631,2025-03-22,Resignation,Company Restructuring,90,Yes
+356,2355,2025-11-17,Resignation,Higher Education,15,No
+357,1844,2025-04-03,Resignation,Company Restructuring,90,Yes
+358,2259,2024-08-06,Retirement,Relocation,15,Yes
+359,227,2025-09-25,Retirement,Higher Education,90,Yes
+360,1322,2025-08-31,Resignation,Retirement,30,No
+361,1164,2025-04-18,Resignation,Higher Education,30,Yes
+362,1125,2024-09-25,Contract End,Relocation,30,Yes
+363,2626,2024-12-24,Resignation,Relocation,90,No
+364,2699,2024-09-16,Resignation,Personal Reasons,90,Yes
+365,333,2024-03-26,Retirement,Better Career Opportunity,90,Yes
+366,2344,2025-11-13,Resignation,Health Issues,90,Yes
+367,2569,2025-08-03,Resignation,End of Contract,30,Yes
+368,1004,2024-11-05,Resignation,Health Issues,30,Yes
+369,648,2025-05-11,Resignation,Company Restructuring,60,Yes
+370,2485,2024-10-09,Resignation,Relocation,30,No
+371,1415,2024-06-21,Resignation,Health Issues,15,Yes
+372,435,2024-10-07,Resignation,Personal Reasons,15,Yes
+373,1016,2024-02-19,Resignation,Relocation,0,Yes
+374,2521,2025-03-24,Retirement,Health Issues,15,No
+375,1342,2025-10-12,Retirement,Personal Reasons,15,Yes
+376,2109,2024-07-12,Resignation,Company Restructuring,60,No
+377,369,2024-05-31,Resignation,Health Issues,90,Yes
+378,2390,2025-08-13,Resignation,Personal Reasons,0,Yes
+379,2680,2024-01-23,Resignation,Company Restructuring,30,Yes
+380,1766,2025-04-14,Termination,Relocation,30,Yes
+381,1499,2025-05-14,Termination,Better Career Opportunity,60,Yes
+382,1485,2024-09-30,Resignation,End of Contract,30,Yes
+383,2253,2024-06-09,Resignation,Performance Issues,90,Yes
+384,397,2025-04-04,Resignation,Health Issues,30,Yes
+385,1498,2025-12-17,Resignation,Relocation,15,Yes
+386,165,2025-08-13,Resignation,Better Career Opportunity,0,Yes
+387,1941,2025-04-05,Resignation,End of Contract,60,Yes
+388,573,2025-03-24,Retirement,Personal Reasons,90,Yes
+389,2526,2025-12-29,Resignation,Performance Issues,90,Yes
+390,2181,2024-04-14,Termination,Company Restructuring,90,Yes
+391,1509,2024-09-16,Termination,Personal Reasons,0,No
+392,2971,2025-02-19,Resignation,Better Career Opportunity,90,Yes
+393,2370,2024-12-20,Contract End,Retirement,0,Yes
+394,2577,2024-01-09,Resignation,Health Issues,15,No
+395,2346,2024-02-26,Resignation,Higher Education,15,Yes
+396,621,2025-10-08,Resignation,Health Issues,15,Yes
+397,1932,2025-11-07,Termination,Better Career Opportunity,15,Yes
+398,2713,2025-08-14,Resignation,Company Restructuring,90,Yes
+399,1883,2024-01-09,Contract End,End of Contract,30,Yes
+400,2953,2025-07-24,Resignation,Performance Issues,90,Yes
+401,1143,2025-12-30,Contract End,End of Contract,30,Yes
+402,1220,2024-03-22,Contract End,Performance Issues,15,Yes
+403,1966,2024-06-03,Resignation,Personal Reasons,90,No
+404,1121,2024-02-03,Termination,Performance Issues,0,Yes
+405,1617,2025-03-30,Resignation,Personal Reasons,15,Yes
+406,2926,2025-08-28,Resignation,Higher Education,30,No
+407,1963,2025-09-26,Resignation,Retirement,15,No
+408,2303,2025-04-12,Resignation,Performance Issues,15,Yes
+409,981,2024-10-18,Termination,Retirement,0,Yes
+410,2614,2024-09-05,Resignation,Retirement,0,Yes
+411,1935,2024-04-14,Resignation,Higher Education,15,Yes
+412,647,2025-03-27,Resignation,Health Issues,60,Yes
+413,1177,2024-10-26,Resignation,Personal Reasons,30,Yes
+414,367,2025-04-24,Retirement,Retirement,90,Yes
+415,153,2024-12-06,Retirement,Relocation,60,No
+416,149,2025-10-02,Resignation,Health Issues,60,Yes
+417,1186,2024-05-23,Termination,Better Career Opportunity,0,Yes
+418,1373,2024-09-13,Resignation,Performance Issues,60,No
+419,2024,2024-11-18,Resignation,Relocation,90,Yes
+420,462,2025-09-02,Resignation,Personal Reasons,15,Yes
+421,2944,2024-07-03,Resignation,Relocation,0,Yes
+422,2326,2024-06-29,Termination,Retirement,15,Yes
+423,1661,2024-11-23,Resignation,Health Issues,90,Yes
+424,391,2025-05-12,Resignation,Relocation,15,Yes
+425,28,2024-09-25,Retirement,Performance Issues,60,Yes
+426,1351,2025-05-01,Termination,Performance Issues,90,Yes
+427,2678,2024-11-11,Resignation,Personal Reasons,15,Yes
+428,1257,2024-07-21,Resignation,Relocation,60,Yes
+429,2882,2025-11-07,Retirement,Performance Issues,0,Yes
+430,1506,2025-12-12,Retirement,Retirement,15,No
+431,1864,2025-03-07,Resignation,Personal Reasons,60,Yes
+432,2202,2024-11-27,Retirement,Retirement,15,Yes
+433,336,2024-06-13,Resignation,End of Contract,60,Yes
+434,2311,2025-01-06,Resignation,Higher Education,0,No
+435,829,2024-06-06,Retirement,End of Contract,15,Yes
+436,1810,2024-07-22,Retirement,Higher Education,15,Yes
+437,2091,2025-04-09,Resignation,Company Restructuring,0,Yes
+438,1872,2024-09-28,Resignation,Better Career Opportunity,90,Yes
+439,2963,2025-05-06,Termination,Better Career Opportunity,60,Yes
+440,893,2025-11-06,Resignation,Higher Education,0,Yes
+441,2217,2025-04-07,Termination,Better Career Opportunity,0,No
+442,1176,2024-03-31,Resignation,Health Issues,15,Yes
+443,2988,2024-02-04,Termination,Health Issues,30,No
+444,1547,2025-04-22,Resignation,Health Issues,0,Yes
+445,2209,2024-08-25,Resignation,Relocation,30,Yes
+446,1610,2024-08-02,Contract End,End of Contract,15,Yes
+447,15,2024-10-13,Resignation,Better Career Opportunity,30,Yes
+448,1738,2025-04-17,Termination,End of Contract,60,No
+449,1418,2025-05-12,Resignation,Relocation,30,Yes
+450,463,2024-11-28,Retirement,Better Career Opportunity,60,Yes
+451,65,2025-11-10,Retirement,Retirement,15,Yes
+452,1829,2024-08-14,Resignation,Better Career Opportunity,15,Yes
+453,960,2024-10-27,Resignation,End of Contract,15,Yes
+454,574,2024-04-04,Termination,End of Contract,30,Yes
+455,2360,2025-08-05,Retirement,Personal Reasons,90,Yes
+456,1314,2024-12-04,Resignation,Retirement,30,No
+457,2136,2025-08-13,Contract End,Retirement,60,Yes
+458,2424,2025-10-03,Resignation,Relocation,60,Yes
+459,1411,2024-06-16,Resignation,Health Issues,90,Yes
+460,612,2024-12-20,Resignation,Performance Issues,60,Yes
+461,988,2025-06-13,Resignation,Retirement,30,No
+462,1897,2025-10-09,Resignation,Better Career Opportunity,90,Yes
+463,2171,2024-02-12,Resignation,Relocation,60,Yes
+464,2649,2024-05-26,Resignation,Higher Education,60,No
+465,2968,2024-10-11,Resignation,Retirement,0,Yes
+466,2470,2025-11-04,Resignation,Better Career Opportunity,0,Yes
+467,2967,2024-05-16,Termination,End of Contract,15,Yes
+468,1364,2025-10-08,Retirement,Performance Issues,0,Yes
+469,481,2025-11-03,Resignation,Company Restructuring,15,Yes
+470,1625,2024-08-16,Termination,Retirement,90,Yes
+471,1910,2025-01-02,Resignation,End of Contract,30,Yes
+472,2037,2024-02-10,Resignation,Company Restructuring,0,No
+473,1312,2025-11-20,Termination,Retirement,30,Yes
+474,907,2024-06-10,Resignation,Relocation,0,Yes
+475,2373,2024-02-02,Retirement,Health Issues,30,Yes
+476,1556,2024-12-09,Resignation,Retirement,60,Yes
+477,1383,2025-05-29,Retirement,Performance Issues,60,No
+478,2010,2024-05-23,Resignation,Company Restructuring,15,Yes
+479,574,2024-11-14,Resignation,End of Contract,60,Yes
+480,2629,2024-07-14,Retirement,Better Career Opportunity,90,Yes
+481,2738,2025-05-07,Termination,Better Career Opportunity,0,Yes
+482,948,2024-12-22,Termination,Higher Education,15,Yes
+483,1529,2025-06-23,Resignation,Better Career Opportunity,90,Yes
+484,1980,2025-08-31,Retirement,Company Restructuring,0,Yes
+485,49,2024-07-20,Resignation,Better Career Opportunity,90,Yes
+486,1175,2024-04-24,Resignation,Better Career Opportunity,90,No
+487,735,2025-10-15,Resignation,Higher Education,0,Yes
+488,2539,2024-12-25,Resignation,End of Contract,30,No
+489,1626,2025-05-16,Resignation,Higher Education,30,No
+490,997,2024-06-06,Resignation,Retirement,30,Yes
+491,2678,2024-09-14,Termination,Better Career Opportunity,0,Yes
+492,1950,2025-03-24,Resignation,Better Career Opportunity,0,Yes
+493,1778,2024-07-06,Resignation,Personal Reasons,90,No
+494,2164,2025-05-15,Contract End,Better Career Opportunity,15,Yes
+495,2322,2025-09-27,Retirement,Company Restructuring,30,Yes
+496,1149,2024-05-20,Resignation,End of Contract,90,Yes
+497,1289,2024-08-19,Resignation,Better Career Opportunity,15,Yes
+498,2920,2024-07-27,Termination,Health Issues,0,Yes
+499,2322,2024-01-02,Resignation,Health Issues,90,Yes
+500,574,2024-03-06,Termination,Higher Education,90,Yes
+501,401,2025-01-25,Resignation,Health Issues,15,No
+502,2515,2025-04-07,Resignation,Health Issues,30,Yes
+503,1846,2025-12-11,Resignation,Company Restructuring,15,Yes
+504,1769,2025-12-13,Retirement,Relocation,90,Yes
+505,2534,2025-05-30,Resignation,Performance Issues,15,Yes
+506,632,2024-11-30,Resignation,Health Issues,15,Yes
+507,437,2025-03-13,Resignation,Higher Education,0,No
+508,1105,2025-06-05,Resignation,Higher Education,15,Yes
+509,2282,2024-08-31,Resignation,End of Contract,90,Yes
+510,1450,2024-04-06,Resignation,End of Contract,0,Yes
+511,1578,2024-04-17,Termination,Better Career Opportunity,30,Yes
+512,2969,2025-08-24,Termination,End of Contract,15,Yes
+513,1560,2025-02-04,Resignation,Relocation,15,Yes
+514,598,2024-03-27,Resignation,Higher Education,15,Yes
+515,1984,2025-08-02,Resignation,Higher Education,30,Yes
+516,2561,2024-01-10,Resignation,Company Restructuring,90,Yes
+517,555,2024-08-03,Resignation,Performance Issues,0,No
+518,2541,2025-05-29,Resignation,Health Issues,30,Yes
+519,2667,2024-11-28,Resignation,Relocation,30,Yes
+520,823,2024-07-03,Retirement,Company Restructuring,30,Yes
+521,1308,2024-12-27,Resignation,Performance Issues,60,No
+522,1335,2025-12-12,Termination,Health Issues,30,No
+523,467,2024-03-25,Resignation,Retirement,90,No
+524,2254,2025-07-30,Resignation,Better Career Opportunity,60,No
+525,1194,2025-06-16,Resignation,Higher Education,60,Yes
+526,1241,2025-03-31,Resignation,Retirement,30,Yes
+527,1545,2024-03-06,Termination,Higher Education,60,No
+528,1642,2025-06-10,Resignation,End of Contract,90,No
+529,1714,2025-06-25,Retirement,End of Contract,0,Yes
+530,2200,2024-05-13,Resignation,Higher Education,0,Yes
+531,1455,2025-12-22,Resignation,Relocation,90,Yes
+532,2775,2025-02-13,Contract End,Health Issues,30,No
+533,44,2025-10-25,Resignation,Higher Education,30,Yes
+534,2286,2025-04-11,Termination,Retirement,60,Yes
+535,2784,2024-02-28,Resignation,End of Contract,15,Yes
+536,429,2024-07-30,Resignation,Performance Issues,60,No
+537,2991,2025-11-16,Resignation,Relocation,30,Yes
+538,848,2025-10-06,Resignation,End of Contract,60,Yes
+539,2958,2025-01-17,Resignation,Company Restructuring,30,Yes
+540,2912,2024-11-02,Resignation,Higher Education,0,No
+541,2774,2024-02-10,Resignation,Relocation,15,Yes
+542,1356,2024-11-23,Resignation,End of Contract,60,No
+543,1660,2025-12-09,Resignation,Relocation,15,Yes
+544,120,2025-08-10,Resignation,Retirement,60,Yes
+545,2887,2024-09-07,Resignation,Retirement,15,Yes
+546,257,2025-02-16,Termination,Higher Education,90,Yes
+547,1875,2025-07-01,Resignation,Higher Education,30,Yes
+548,2618,2025-12-03,Resignation,Personal Reasons,90,Yes
+549,468,2025-09-15,Resignation,Personal Reasons,30,No
+550,2760,2025-10-28,Resignation,Performance Issues,90,Yes
+551,1283,2025-06-18,Resignation,Higher Education,15,Yes
+552,2841,2025-03-12,Resignation,Relocation,90,Yes
+553,2355,2024-06-04,Resignation,Health Issues,60,Yes
+554,2841,2025-09-11,Resignation,Relocation,90,Yes
+555,767,2025-08-21,Resignation,Personal Reasons,60,Yes
+556,40,2025-03-23,Retirement,Company Restructuring,15,Yes
+557,2301,2025-12-13,Resignation,End of Contract,60,Yes
+558,2909,2025-08-02,Resignation,Company Restructuring,60,Yes
+559,904,2024-06-18,Resignation,Performance Issues,0,Yes
+560,689,2024-09-17,Resignation,Company Restructuring,90,Yes
+561,2252,2025-10-29,Termination,End of Contract,0,Yes
+562,2225,2025-05-13,Resignation,Personal Reasons,90,No
+563,2945,2024-05-08,Resignation,Company Restructuring,90,Yes
+564,2678,2024-11-19,Resignation,Retirement,30,No
+565,1077,2025-09-07,Resignation,Personal Reasons,0,Yes
+566,971,2024-07-22,Contract End,Retirement,90,Yes
+567,2500,2025-05-30,Retirement,Health Issues,15,Yes
+568,848,2025-08-04,Termination,Better Career Opportunity,90,Yes
+569,2207,2025-12-03,Resignation,Relocation,30,No
+570,2346,2025-08-05,Resignation,Performance Issues,90,No
+571,391,2024-10-30,Resignation,Relocation,60,No
+572,2687,2025-03-22,Contract End,Relocation,15,Yes
+573,1014,2025-12-22,Termination,Health Issues,60,Yes
+574,2572,2025-07-28,Resignation,Health Issues,60,Yes
+575,382,2024-10-20,Resignation,Health Issues,90,Yes
+576,1512,2024-06-08,Resignation,Company Restructuring,60,Yes
+577,382,2024-07-02,Resignation,Company Restructuring,30,No
+578,1630,2025-12-06,Termination,Retirement,60,No
+579,1323,2025-02-08,Resignation,Performance Issues,30,Yes
+580,1988,2024-02-14,Resignation,Personal Reasons,0,Yes
+581,1883,2025-12-05,Resignation,Better Career Opportunity,0,No
+582,1870,2024-02-28,Resignation,Better Career Opportunity,60,Yes
+583,541,2024-10-18,Resignation,Performance Issues,15,No
+584,383,2024-06-22,Retirement,Personal Reasons,30,Yes
+585,2658,2024-10-20,Resignation,Relocation,0,Yes
+586,2865,2024-04-19,Resignation,Retirement,60,Yes
+587,5,2025-02-21,Termination,Retirement,60,Yes
+588,2128,2024-07-17,Resignation,Company Restructuring,0,Yes
+589,494,2024-04-27,Resignation,Health Issues,15,Yes
+590,366,2025-07-02,Resignation,Higher Education,0,Yes
+591,562,2024-03-13,Retirement,Health Issues,15,Yes
+592,281,2025-03-13,Resignation,End of Contract,90,Yes
+593,1803,2025-07-09,Resignation,Personal Reasons,15,Yes
+594,1687,2025-10-24,Resignation,Company Restructuring,15,Yes
+595,505,2025-02-28,Resignation,Health Issues,30,No
+596,573,2025-01-01,Resignation,Retirement,30,Yes
+597,2462,2025-07-14,Resignation,Performance Issues,0,No
+598,1236,2024-12-21,Resignation,Retirement,90,Yes
+599,1605,2024-03-13,Resignation,Performance Issues,0,Yes
+600,981,2025-10-25,Termination,Company Restructuring,60,Yes
+601,2433,2024-02-12,Resignation,Higher Education,90,No
+602,1480,2025-07-13,Resignation,Personal Reasons,15,Yes
+603,1724,2025-01-25,Termination,Personal Reasons,90,Yes
+604,299,2025-02-11,Termination,Better Career Opportunity,90,Yes
+605,164,2025-07-15,Resignation,Better Career Opportunity,60,Yes
+606,2053,2025-03-23,Resignation,Health Issues,60,Yes
+607,2198,2025-03-15,Resignation,End of Contract,90,Yes
+608,324,2025-04-06,Resignation,End of Contract,15,No
+609,1339,2025-01-28,Resignation,Health Issues,90,Yes
+610,2790,2025-07-03,Termination,Higher Education,30,Yes
+611,978,2025-02-04,Termination,Better Career Opportunity,15,Yes
+612,1858,2025-11-10,Resignation,Better Career Opportunity,30,Yes
+613,720,2025-07-31,Resignation,Higher Education,0,Yes
+614,672,2025-02-23,Termination,Company Restructuring,30,Yes
+615,2953,2025-03-05,Termination,Performance Issues,15,Yes
+616,1101,2024-11-12,Termination,Higher Education,0,Yes
+617,2146,2025-07-14,Resignation,Higher Education,30,Yes
+618,316,2024-12-26,Resignation,Company Restructuring,60,Yes
+619,2322,2024-01-10,Resignation,Relocation,30,Yes
+620,2351,2025-08-05,Termination,Higher Education,15,Yes
+621,51,2024-03-23,Resignation,Retirement,0,Yes
+622,615,2025-07-28,Resignation,Relocation,0,Yes
+623,2686,2025-09-25,Retirement,Health Issues,15,Yes
+624,2951,2024-04-02,Resignation,Personal Reasons,30,No
+625,490,2025-01-01,Resignation,End of Contract,0,Yes
+626,189,2025-02-13,Termination,Health Issues,0,No
+627,1273,2024-01-09,Retirement,Personal Reasons,0,Yes
+628,822,2025-06-09,Resignation,Performance Issues,90,Yes
+629,994,2024-12-15,Termination,Company Restructuring,30,Yes
+630,801,2025-07-22,Resignation,End of Contract,15,Yes
+631,98,2024-01-29,Retirement,Retirement,90,Yes
+632,40,2025-10-09,Termination,Personal Reasons,0,Yes
+633,2979,2024-11-20,Resignation,Performance Issues,0,Yes
+634,1720,2024-07-02,Contract End,Company Restructuring,0,No
+635,1147,2024-12-05,Resignation,Higher Education,0,No
+636,2129,2025-05-11,Retirement,Health Issues,30,Yes
+637,2379,2024-04-22,Termination,Higher Education,90,Yes
+638,307,2025-03-07,Termination,Better Career Opportunity,60,Yes
+639,1195,2025-02-23,Resignation,Performance Issues,30,No
+640,1337,2024-05-31,Resignation,Personal Reasons,60,Yes
+641,831,2024-02-06,Resignation,Relocation,90,Yes
+642,1842,2025-06-17,Resignation,Company Restructuring,30,Yes
+643,851,2024-12-29,Resignation,Company Restructuring,30,Yes
+644,371,2024-06-18,Retirement,Relocation,30,No
+645,166,2025-11-20,Resignation,Retirement,30,Yes
+646,1458,2024-10-18,Termination,Health Issues,90,Yes
+647,713,2024-09-20,Resignation,Better Career Opportunity,60,No
+648,2254,2024-06-03,Resignation,Retirement,0,Yes
+649,573,2024-03-14,Termination,Higher Education,0,Yes
+650,911,2024-06-28,Termination,Relocation,15,No
+651,2582,2025-03-10,Resignation,Higher Education,90,Yes
+652,308,2025-06-11,Retirement,Better Career Opportunity,0,Yes
+653,528,2025-12-15,Resignation,Higher Education,30,Yes
+654,208,2025-06-28,Retirement,Relocation,90,Yes
+655,2033,2025-06-12,Termination,Better Career Opportunity,60,Yes
+656,880,2025-01-26,Resignation,Relocation,30,Yes
+657,142,2024-08-22,Retirement,Retirement,30,Yes
+658,1963,2025-03-23,Retirement,Better Career Opportunity,0,Yes
+659,817,2024-12-15,Resignation,End of Contract,15,Yes
+660,80,2024-03-14,Termination,Health Issues,30,Yes
+661,1410,2025-10-16,Termination,End of Contract,30,Yes
+662,1307,2025-07-28,Resignation,Retirement,0,No
+663,240,2025-10-31,Termination,Company Restructuring,90,Yes
+664,954,2024-06-16,Resignation,Relocation,0,Yes
+665,2186,2024-08-21,Resignation,Better Career Opportunity,15,Yes
+666,1591,2025-12-18,Contract End,Personal Reasons,15,Yes
+667,2858,2024-04-16,Resignation,Personal Reasons,90,Yes
+668,2326,2024-07-05,Termination,Relocation,90,No
+669,2017,2025-02-10,Termination,End of Contract,30,Yes
+670,231,2024-06-22,Resignation,Retirement,90,Yes
+671,3,2024-02-23,Resignation,Personal Reasons,90,Yes
+672,2937,2024-10-05,Resignation,Relocation,30,Yes
+673,2887,2024-12-03,Resignation,Relocation,0,No
+674,298,2024-05-31,Retirement,Personal Reasons,60,Yes
+675,1322,2025-12-30,Resignation,Relocation,15,Yes
+676,2619,2025-01-30,Resignation,Company Restructuring,30,Yes
+677,2841,2024-12-11,Contract End,Personal Reasons,15,Yes
+678,1550,2024-11-09,Termination,Performance Issues,30,Yes
+679,2876,2025-05-14,Termination,Health Issues,90,Yes
+680,2505,2025-09-07,Resignation,Retirement,90,Yes
+681,1357,2025-07-22,Resignation,Higher Education,15,Yes
+682,2606,2024-05-09,Resignation,Higher Education,30,Yes
+683,1023,2024-08-22,Resignation,Higher Education,30,Yes
+684,6,2024-04-29,Resignation,Better Career Opportunity,60,Yes
+685,682,2024-02-03,Resignation,Health Issues,60,No
+686,1538,2024-04-15,Resignation,Higher Education,60,Yes
+687,2815,2024-12-17,Resignation,Retirement,15,Yes
+688,137,2025-07-27,Termination,Performance Issues,0,Yes
+689,304,2024-03-17,Contract End,Personal Reasons,15,No
+690,308,2025-09-10,Resignation,End of Contract,0,Yes
+691,1978,2025-03-11,Contract End,Better Career Opportunity,60,No
+692,1779,2024-12-03,Resignation,Relocation,0,Yes
+693,779,2024-05-05,Resignation,Health Issues,90,Yes
+694,1087,2025-08-08,Termination,Performance Issues,30,Yes
+695,2342,2024-05-10,Resignation,End of Contract,60,Yes
+696,1752,2025-04-06,Resignation,Higher Education,30,No
+697,1968,2025-09-11,Resignation,Retirement,0,Yes
+698,1196,2025-06-17,Resignation,Higher Education,60,No
+699,1629,2024-01-12,Resignation,Company Restructuring,60,No
+700,2630,2024-11-17,Resignation,End of Contract,60,Yes
+701,1514,2025-05-05,Retirement,Relocation,60,Yes
+702,1079,2025-08-14,Resignation,Retirement,30,Yes
+703,2853,2024-02-13,Resignation,Higher Education,0,Yes
+704,1696,2024-06-27,Termination,Retirement,90,Yes
+705,2141,2024-08-29,Resignation,Health Issues,90,Yes
+706,2346,2025-06-13,Retirement,Retirement,60,Yes
+707,2926,2024-04-08,Resignation,Better Career Opportunity,90,Yes
+708,2341,2024-02-12,Resignation,Relocation,0,No
+709,685,2025-02-13,Resignation,Retirement,15,Yes
+710,2799,2025-11-01,Resignation,Health Issues,15,No
+711,2438,2025-11-05,Resignation,Performance Issues,30,No
+712,275,2025-03-16,Retirement,Higher Education,60,Yes
+713,1132,2024-10-04,Resignation,End of Contract,60,No
+714,2869,2025-09-01,Resignation,End of Contract,60,Yes
+715,2321,2024-12-13,Resignation,Higher Education,0,Yes
+716,1172,2025-06-02,Resignation,End of Contract,30,No
+717,2683,2025-01-25,Resignation,Company Restructuring,90,Yes
+718,1129,2025-07-11,Resignation,Health Issues,15,Yes
+719,1646,2024-02-14,Resignation,Better Career Opportunity,60,No
+720,974,2025-09-08,Resignation,Better Career Opportunity,60,No
+721,83,2024-04-13,Retirement,Personal Reasons,30,Yes
+722,2852,2024-09-08,Termination,Higher Education,15,Yes
+723,1815,2025-05-02,Contract End,Personal Reasons,30,Yes
+724,366,2024-02-27,Resignation,Retirement,60,Yes
+725,1985,2025-01-17,Termination,End of Contract,30,No
+726,652,2025-09-20,Resignation,Higher Education,30,Yes
+727,2148,2024-12-09,Resignation,Better Career Opportunity,15,Yes
+728,237,2025-10-09,Termination,Retirement,0,Yes
+729,2887,2024-04-26,Retirement,Retirement,30,Yes
+730,1626,2025-09-01,Resignation,Higher Education,0,Yes
+731,1828,2024-10-23,Resignation,Relocation,60,Yes
+732,670,2024-01-23,Resignation,Performance Issues,0,Yes
+733,668,2024-09-08,Resignation,Retirement,15,Yes
+734,1103,2025-12-04,Resignation,Health Issues,90,Yes
+735,2795,2024-09-26,Termination,Better Career Opportunity,60,No
+736,2463,2024-07-14,Resignation,Better Career Opportunity,15,Yes
+737,1252,2025-11-05,Termination,Performance Issues,60,No
+738,1881,2024-04-23,Retirement,Performance Issues,15,Yes
+739,2555,2025-04-13,Resignation,Health Issues,90,Yes
+740,2714,2025-10-17,Resignation,Personal Reasons,90,Yes
+741,1223,2025-09-04,Resignation,Higher Education,60,Yes
+742,2624,2024-11-26,Contract End,Personal Reasons,30,Yes
+743,2669,2024-09-23,Termination,Performance Issues,15,Yes
+744,233,2024-02-12,Termination,Health Issues,30,Yes
+745,2685,2024-09-24,Termination,Company Restructuring,30,Yes
+746,1591,2024-10-25,Resignation,Better Career Opportunity,90,Yes
+747,778,2025-10-26,Resignation,Personal Reasons,15,Yes
+748,1949,2024-03-01,Resignation,Personal Reasons,90,Yes
+749,2694,2024-02-11,Resignation,End of Contract,15,Yes
+750,1060,2024-12-06,Resignation,End of Contract,15,No

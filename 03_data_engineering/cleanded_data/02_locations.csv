@@ -1,0 +1,16 @@
+location_id,location_code,office_name,city,state,country,region,timezone,office_type,status,created_date
+1,LOC001,Global Headquarters,Bengaluru,Karnataka,India,South,Asia/Kolkata,Headquarters,Active,2018-01-01
+2,LOC002,Regional Office,Mumbai,Maharashtra,India,West,Asia/Kolkata,Regional Office,Active,2018-01-01
+3,LOC003,Technology Center,Hyderabad,Telangana,India,South,Asia/Kolkata,Development Center,Active,2018-01-01
+4,LOC004,Corporate Office,New Delhi,Delhi,India,North,Asia/Kolkata,Corporate Office,Active,2018-01-01
+5,LOC005,Branch Office,Pune,Maharashtra,India,West,Asia/Kolkata,Branch Office,Active,2018-01-01
+6,LOC006,Branch Office,Chennai,Tamil Nadu,India,South,Asia/Kolkata,Branch Office,Active,2018-01-01
+7,LOC007,Branch Office,Kolkata,West Bengal,India,East,Asia/Kolkata,Branch Office,Active,2018-01-01
+8,LOC008,Branch Office,Ahmedabad,Gujarat,India,West,Asia/Kolkata,Branch Office,Active,2018-01-01
+9,LOC009,Branch Office,Jaipur,Rajasthan,India,North,Asia/Kolkata,Branch Office,Active,2018-01-01
+10,LOC010,Branch Office,Lucknow,Uttar Pradesh,India,North,Asia/Kolkata,Branch Office,Active,2018-01-01
+11,LOC011,Regional Office,Kochi,Kerala,India,South,Asia/Kolkata,Regional Office,Active,2018-01-01
+12,LOC012,Technology Center,Noida,Uttar Pradesh,India,North,Asia/Kolkata,Development Center,Active,2018-01-01
+13,LOC013,Branch Office,Chandigarh,Chandigarh,India,North,Asia/Kolkata,Branch Office,Active,2018-01-01
+14,LOC014,Branch Office,Indore,Madhya Pradesh,India,Central,Asia/Kolkata,Branch Office,Active,2018-01-01
+15,LOC015,Branch Office,Bhubaneswar,Odisha,India,East,Asia/Kolkata,Branch Office,Active,2018-01-01

@@ -1,0 +1,101 @@
+program_id,program_name,training_type,trainer,duration_hours,delivery_mode,cost_per_employee
+1,SQL for Business,Technical,IBM,8,Online,5572
+2,SQL for Business,Technical,Udemy Business,4,Online,4070
+3,Project Management,Soft Skills,Internal Trainer,24,Online,24462
+4,Digital Marketing,Leadership,Google,16,Hybrid,10115
+5,Leadership Development,Soft Skills,Udemy Business,12,Offline,6094
+6,Project Management,Compliance,External Consultant,4,Offline,4169
+7,Financial Analysis,Compliance,IBM,4,Hybrid,16054
+8,Digital Marketing,Technical,Udemy Business,4,Hybrid,10606
+9,Risk Management,Compliance,Google,40,Online,2501
+10,Cyber Security Awareness,Compliance,External Consultant,8,Online,13455
+11,Time Management,Leadership,Oracle,8,Offline,12641
+12,Project Management,Compliance,External Consultant,24,Hybrid,6607
+13,Digital Marketing,Soft Skills,Microsoft,16,Offline,9845
+14,Digital Marketing,Soft Skills,Oracle,4,Online,2051
+15,Customer Service,Leadership,IBM,4,Online,19585
+16,Customer Service,Soft Skills,Coursera,16,Hybrid,16035
+17,Python Programming,Compliance,Microsoft,8,Hybrid,19394
+18,Digital Marketing,Compliance,Udemy Business,24,Offline,12861
+19,Cyber Security Awareness,Soft Skills,Coursera,4,Online,4592
+20,Python Programming,Soft Skills,Udemy Business,24,Online,13608
+21,Machine Learning Basics,Leadership,IBM,24,Online,23291
+22,SQL for Business,Compliance,Oracle,4,Offline,15246
+23,Communication Skills,Leadership,Internal Trainer,40,Hybrid,9630
+24,Sales Excellence,Soft Skills,External Consultant,40,Offline,21937
+25,Sales Excellence,Soft Skills,Microsoft,12,Online,18674
+26,Sales Excellence,Technical,Oracle,16,Online,4665
+27,Financial Analysis,Compliance,Google,4,Online,19591
+28,Power BI Fundamentals,Technical,Coursera,4,Hybrid,5120
+29,Python Programming,Leadership,Microsoft,12,Hybrid,20876
+30,Cloud Computing,Soft Skills,Google,40,Offline,14074
+31,Financial Analysis,Leadership,Coursera,4,Online,8362
+32,Power BI Fundamentals,Compliance,Internal Trainer,24,Hybrid,8540
+33,Conflict Resolution,Soft Skills,Internal Trainer,4,Hybrid,21679
+34,Advanced Excel,Soft Skills,External Consultant,4,Offline,3321
+35,Sales Excellence,Soft Skills,IBM,40,Offline,8020
+36,Digital Marketing,Soft Skills,Coursera,8,Offline,14338
+37,Project Management,Technical,External Consultant,40,Offline,12609
+38,Cloud Computing,Leadership,Coursera,40,Online,23064
+39,SQL for Business,Technical,Udemy Business,40,Offline,4580
+40,Cyber Security Awareness,Soft Skills,Google,24,Offline,5593
+41,Cloud Computing,Soft Skills,IBM,16,Online,3470
+42,Business Intelligence,Technical,Internal Trainer,40,Hybrid,1483
+43,Power BI Fundamentals,Soft Skills,Microsoft,16,Offline,16773
+44,Project Management,Leadership,Internal Trainer,8,Offline,1070
+45,Machine Learning Basics,Compliance,Coursera,12,Offline,23825
+46,Digital Marketing,Leadership,Microsoft,8,Offline,8133
+47,Advanced Excel,Technical,Oracle,4,Online,20142
+48,Workplace Ethics,Soft Skills,Internal Trainer,24,Online,7089
+49,Power BI Fundamentals,Technical,Google,16,Online,19667
+50,Cyber Security Awareness,Technical,External Consultant,16,Hybrid,20125
+51,Conflict Resolution,Compliance,IBM,8,Hybrid,24468
+52,Customer Service,Soft Skills,IBM,16,Online,23009
+53,Data Analytics,Leadership,Oracle,4,Online,16017
+54,Risk Management,Technical,External Consultant,24,Online,17576
+55,Time Management,Soft Skills,Oracle,4,Online,13108
+56,Data Analytics,Soft Skills,Coursera,24,Hybrid,10912
+57,Risk Management,Technical,IBM,40,Online,5400
+58,Time Management,Technical,External Consultant,40,Hybrid,6093
+59,Time Management,Compliance,Google,40,Offline,7671
+60,Time Management,Leadership,IBM,4,Online,21784
+61,Cloud Computing,Compliance,Internal Trainer,4,Offline,5286
+62,Time Management,Soft Skills,Coursera,24,Hybrid,15014
+63,Digital Marketing,Technical,External Consultant,4,Hybrid,5884
+64,Digital Marketing,Technical,Oracle,24,Hybrid,5852
+65,Cloud Computing,Soft Skills,Internal Trainer,12,Offline,2307
+66,Financial Analysis,Soft Skills,Google,40,Online,12589
+67,Digital Marketing,Leadership,Microsoft,8,Online,6801
+68,Cloud Computing,Technical,Microsoft,40,Offline,14491
+69,Cyber Security Awareness,Compliance,Microsoft,40,Online,13535
+70,Advanced Excel,Leadership,Google,8,Offline,12457
+71,Data Analytics,Soft Skills,Google,4,Hybrid,7328
+72,Machine Learning Basics,Compliance,IBM,4,Offline,12506
+73,Sales Excellence,Leadership,Oracle,4,Online,9559
+74,Communication Skills,Compliance,Internal Trainer,4,Hybrid,15239
+75,Financial Analysis,Compliance,Udemy Business,24,Hybrid,4789
+76,Machine Learning Basics,Soft Skills,IBM,4,Hybrid,15288
+77,Leadership Development,Soft Skills,Oracle,16,Online,22765
+78,Customer Service,Compliance,External Consultant,40,Offline,17617
+79,Data Analytics,Leadership,Oracle,16,Hybrid,10688
+80,Digital Marketing,Soft Skills,Google,16,Hybrid,13423
+81,Communication Skills,Compliance,Udemy Business,24,Online,10957
+82,Data Analytics,Soft Skills,Udemy Business,24,Hybrid,22453
+83,Customer Service,Leadership,Coursera,16,Hybrid,8002
+84,Sales Excellence,Leadership,Microsoft,40,Online,10299
+85,Sales Excellence,Compliance,External Consultant,8,Hybrid,11171
+86,Cyber Security Awareness,Soft Skills,Microsoft,4,Online,9023
+87,Workplace Ethics,Technical,Coursera,16,Hybrid,19863
+88,Project Management,Leadership,Coursera,16,Online,5835
+89,Leadership Development,Technical,Udemy Business,8,Online,23803
+90,Sales Excellence,Leadership,Internal Trainer,24,Online,4976
+91,Business Intelligence,Soft Skills,Coursera,40,Hybrid,19314
+92,Risk Management,Compliance,Coursera,24,Hybrid,17540
+93,Cloud Computing,Leadership,Microsoft,40,Offline,15747
+94,Time Management,Soft Skills,IBM,24,Offline,21537
+95,Cyber Security Awareness,Compliance,Coursera,4,Hybrid,10362
+96,Cyber Security Awareness,Compliance,Oracle,12,Hybrid,3640
+97,Python Programming,Soft Skills,Google,16,Hybrid,6007
+98,Project Management,Technical,Udemy Business,16,Offline,18780
+99,Business Intelligence,Leadership,Internal Trainer,8,Offline,13762
+100,Conflict Resolution,Technical,Udemy Business,16,Online,12526

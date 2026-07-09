@@ -1,0 +1,51 @@
+job_role_id,job_role_code,job_title,department_name,job_level,min_salary,max_salary,status
+1,JR001,HR Intern,Human Resources,Intern,250000,400000,Active
+2,JR002,HR Executive,Human Resources,Junior,400000,650000,Active
+3,JR003,HR Business Partner,Human Resources,Mid,800000,1400000,Active
+4,JR004,HR Manager,Human Resources,Manager,1500000,2500000,Active
+5,JR005,HR Director,Human Resources,Director,3500000,6000000,Active
+6,JR006,Finance Analyst,Finance,Junior,500000,800000,Active
+7,JR007,Senior Finance Analyst,Finance,Senior,900000,1500000,Active
+8,JR008,Finance Manager,Finance,Manager,1800000,3000000,Active
+9,JR009,Financial Controller,Finance,Director,3500000,6000000,Active
+10,JR010,Software Engineer,Information Technology,Junior,600000,1200000,Active
+11,JR011,Senior Software Engineer,Information Technology,Senior,1200000,2200000,Active
+12,JR012,Technical Lead,Information Technology,Lead,2200000,3200000,Active
+13,JR013,Engineering Manager,Information Technology,Manager,3000000,5000000,Active
+14,JR014,Solutions Architect,Information Technology,Lead,3500000,5500000,Active
+15,JR015,Data Analyst,Data Analytics,Junior,600000,1000000,Active
+16,JR016,Business Analyst,Data Analytics,Mid,800000,1400000,Active
+17,JR017,Senior Data Analyst,Data Analytics,Senior,1200000,2000000,Active
+18,JR018,Data Scientist,Data Analytics,Senior,1800000,3000000,Active
+19,JR019,BI Developer,Data Analytics,Mid,900000,1700000,Active
+20,JR020,Analytics Manager,Data Analytics,Manager,2500000,4500000,Active
+21,JR021,Sales Executive,Sales,Junior,400000,700000,Active
+22,JR022,Sales Consultant,Sales,Mid,600000,1100000,Active
+23,JR023,Area Sales Manager,Sales,Manager,1800000,3200000,Active
+24,JR024,Regional Sales Manager,Sales,Manager,3000000,5000000,Active
+25,JR025,Marketing Executive,Marketing,Junior,450000,700000,Active
+26,JR026,Digital Marketing Specialist,Marketing,Mid,700000,1200000,Active
+27,JR027,Marketing Manager,Marketing,Manager,1800000,3200000,Active
+28,JR028,Operations Executive,Operations,Junior,450000,750000,Active
+29,JR029,Operations Manager,Operations,Manager,1800000,3200000,Active
+30,JR030,Operations Director,Operations,Director,4000000,6500000,Active
+31,JR031,Customer Support Executive,Customer Support,Junior,350000,600000,Active
+32,JR032,Support Team Lead,Customer Support,Lead,800000,1400000,Active
+33,JR033,Customer Success Manager,Customer Support,Manager,1800000,3000000,Active
+34,JR034,Procurement Executive,Procurement,Junior,500000,800000,Active
+35,JR035,Procurement Manager,Procurement,Manager,1800000,3000000,Active
+36,JR036,Supply Chain Analyst,Supply Chain,Mid,700000,1200000,Active
+37,JR037,Logistics Manager,Supply Chain,Manager,2000000,3500000,Active
+38,JR038,Legal Associate,Legal,Junior,700000,1200000,Active
+39,JR039,Legal Counsel,Legal,Senior,1800000,3200000,Active
+40,JR040,Administrative Executive,Administration,Junior,350000,600000,Active
+41,JR041,Administration Manager,Administration,Manager,1200000,2200000,Active
+42,JR042,QA Engineer,Quality Assurance,Junior,600000,1100000,Active
+43,JR043,Senior QA Engineer,Quality Assurance,Senior,1200000,2000000,Active
+44,JR044,Security Analyst,Information Security,Mid,900000,1600000,Active
+45,JR045,Cyber Security Manager,Information Security,Manager,2500000,4200000,Active
+46,JR046,Training Coordinator,Learning & Development,Junior,500000,800000,Active
+47,JR047,Learning Manager,Learning & Development,Manager,1800000,3000000,Active
+48,JR048,Compliance Officer,Compliance,Mid,900000,1500000,Active
+49,JR049,Compliance Manager,Compliance,Manager,2200000,3800000,Active
+50,JR050,Chief Executive Officer,Executive,Executive,12000000,25000000,Active

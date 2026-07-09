@@ -1,0 +1,40 @@
+                                      departments
+                                   +----------------+
+                                   | department_id PK|
+                                   | department_name |
+                                   +--------+-------+
+                                            |
+                                            | 1
+                                            |
+                                            | M
++-------------+        +-----------------------------+        +-------------+
+|    jobs     |------->|         employees           |<-------|  locations  |
++-------------+        +-----------------------------+        +-------------+
+| job_id PK   |        | employee_id PK             |        | location_id PK|
+| job_title   |        | employee_code              |        | city          |
++-------------+        | first_name                 |        | state         |
+                       | last_name                  |        | country       |
+                       | gender                     |        +-------------+
+                       | dob                        |
+                       | hire_date                  |
+                       | salary                     |
+                       | department_id FK           |
+                       | job_id FK                  |
+                       | location_id FK             |
+                       +-------------+--------------+
+                                     |
+           +------------+------------+-------------+-------------+
+           |            |                          |             |
+           |1           |1                         |1            |1
+           |            |                          |             |
+           |M           |M                         |M            |M
+           ▼            ▼                          ▼             ▼
+
++----------------+ +----------------+ +----------------+ +----------------+
+| attendance     | | performance    | | training       | | recruitment    |
++----------------+ +----------------+ +----------------+ +----------------+
+| attendance_id PK| | performance_id | | training_id PK | | recruitment_id |
+| employee_id FK | | employee_id FK | | employee_id FK | | employee_id FK |
+| attendance_date| | review_date    | | course_name    | | source         |
+| status         | | rating         | | completion_dt  | | hire_date      |
++----------------+ +----------------+ +----------------+ +----------------+
